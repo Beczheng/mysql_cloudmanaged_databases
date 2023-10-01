@@ -11,12 +11,16 @@
 - Type in `Azure Database for MySQL` in the search bar.
 - Click create.
 - Click create under flexible server.
-- Under project details, create a name for your resource group.
-- Under server details, create a name for your instance.
-- In addition, under server details, click the `for development or hobby projects` option as your workload type. Make sure that the compute and storage is `burstable, B1MS [$12.41 p/month]`.
-- Create a username and password under authentication.
-- Under network connectivity, click `Next: Networking`. Then click the `public access (allowed IP addresses) and private endpoint` option.
-- Under firewall rules, click `+ Add 0.0.0.0 - 255.255.255.255`.
+- Follow the steps in the table in order:
+
+  | Tab | Section | Steps |
+  | --- | --- | --- |
+  | Basics | Project details | Create a name for your resource group and instance. |
+  | Basics | Server details | Click the `for development or hobby projects` option. Make sure that the compute and storage is `burstable, B1MS [$12.41 p/month]`. |
+  | Basics | Authentication | Create a username and password. |
+  | Networking | Network connectivity | Click the `public access (allowed IP addresses) and private endpoint` option. |
+  | Networking | Firewall rules | Click `+ Add 0.0.0.0 - 255.255.255.255`. |
+  
 - Lastly, click create instance.
 
 #### 2. GCP
