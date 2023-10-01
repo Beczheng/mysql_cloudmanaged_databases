@@ -22,6 +22,8 @@
   | Basics | Authentication | Create a username and password. |
   | Networking | Network connectivity | Click the `public access (allowed IP addresses) and private endpoint` option. |
   | Networking | Firewall rules | Click `+ Add 0.0.0.0 - 255.255.255.255`. |
+
+  <br> 
   
 - Lastly, click create instance.
 
