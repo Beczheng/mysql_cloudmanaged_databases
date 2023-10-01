@@ -12,7 +12,7 @@
 - Click create.
 - Click create under flexible server.
 - Follow the table in order:
----
+
   #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
@@ -35,7 +35,7 @@
 - Click create instance and then click on `choose MySQL`.
 - Click `enable API`.
 - Follow the table in order:
----
+
   #### GCP Table
   | Section | Subsection | Steps |
   | --- | --- | --- |
@@ -47,6 +47,4 @@
   | | | Click create instance. |
   
 ### **Reflections on the assignment**
-
-#### 1. MySQL Workbench
 - Since we went over how to use MySQL Workbench in class, I did not have any issues with it.
