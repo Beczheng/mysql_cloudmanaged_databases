@@ -23,6 +23,8 @@
   | Networking | Firewall rules | Click `+ Add 0.0.0.0 - 255.255.255.255`. |
   | | | Click create instance. |
 
+- For the MySQL setup on Azure, I used this [resource](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/connect-workbench).
+
 #### 2. GCP
 - Login to your Google Cloud account.
 - Click the drop down button next to Google Cloud. 
@@ -45,6 +47,12 @@
   | Customize your instance | Machine configuration | Click `shared core`. Then choose `1 vCPU, 0.164GB`. |
   | Customize your instance | Connections | Click `public IP address`. Then, under authorized network, click `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`. |
   | | | Click create instance. |
+
+- For the MySQL setup on GCP, I used the lecture recording.
+
+### 3. MySQL Workbench
+- For the MySQL database, I used [this](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK4/code/1_n_create.sql) code. I created a new table called `license` and the following columns: `license_ID, doctor_id, license_type, license_number, and expiration_date`. 
   
 ### **Reflections on the assignment**
+- Since we went over how to create a MySQL instance on GCP in class, I did not have any issues with it.
 - Since we went over how to use MySQL Workbench in class, I did not have any issues with it.
