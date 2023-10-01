@@ -8,13 +8,12 @@
 
 #### 1. Azure
 - Login to your Microsoft Azure account.
-- Type in `Azure Database for MySQL` in the search bar.
+- Type in Azure Database for MySQL in the search bar.
 - Click create.
 - Click create under flexible server.
 - Follow the steps in the table in order:
 
-  <br>
-
+  #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
   | Basics | Project details | Create a name for your resource group and instance. |
@@ -22,10 +21,7 @@
   | Basics | Authentication | Create a username and password. |
   | Networking | Network connectivity | Click the `public access (allowed IP addresses) and private endpoint` option. |
   | Networking | Firewall rules | Click `+ Add 0.0.0.0 - 255.255.255.255`. |
-
-  <br> 
-  
-- Lastly, click create instance.
+  | | | Click create instance. |
 
 #### 2. GCP
 - Login to your Google Cloud account.
