@@ -42,7 +42,7 @@
   | Section | Subsection | Steps |
   | --- | --- | --- |
   | Instance info | | Create an instance ID and password. |
-  | Choose a Cloud SQL edition | | Click on the `enterprise` option. |
+  | Choose a Cloud SQL edition | | Click the `enterprise` option. |
   | Choose a Cloud SQL edition | Choose preset for this edition. Presets can be customized later as needed. | Click `sandbox` option. |
   | Customize your instance | Machine configuration | Click `shared core`. Then choose `1 vCPU, 0.164GB`. |
   | Customize your instance | Connections | Click `public IP address`. Then, under authorized network, click `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`. |
