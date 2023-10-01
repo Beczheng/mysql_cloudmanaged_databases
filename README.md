@@ -44,8 +44,8 @@
   | Instance info | | Create an instance ID and password. |
   | Choose a Cloud SQL edition | | Click the `enterprise` option. |
   | Choose a Cloud SQL edition | Choose preset for this edition. Presets can be customized later as needed. | Click `sandbox` option. |
-  | Customize your instance | Machine configuration | Click `shared core`. Then choose `1 vCPU, 0.164GB`. |
-  | Customize your instance | Connections | Click `public IP address`. Then, under authorized network, click `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`. |
+  | Customize your instance | Machine configuration | Click the `shared core` option. Then click the `1 vCPU, 0.164GB` option. |
+  | Customize your instance | Connections | Click the `public IP address` option. Then, under authorized network, click `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`. |
   | | | Click create instance. |
 
 - For the MySQL setup on GCP, I used the lecture recording.
