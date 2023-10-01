@@ -13,6 +13,8 @@
 - Click create under flexible server.
 - Follow the table in order:
 
+<br> 
+
   #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
@@ -35,6 +37,8 @@
 - Click create instance and then click on `choose MySQL`.
 - Click `enable API`.
 - Follow the table in order:
+
+<br> 
 
   #### GCP Table
   | Section | Subsection | Steps |
