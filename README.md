@@ -11,8 +11,8 @@
 - Type in Azure Database for MySQL in the search bar.
 - Click create.
 - Click create under flexible server.
-- Follow the steps in the table in order:
--------
+- Follow the table in order:
+---
   #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
@@ -25,23 +25,27 @@
 
 #### 2. GCP
 - Login to your Google Cloud account.
-- Click on the drop down button next to Google Cloud. 
+- Click the drop down button next to Google Cloud. 
 - Click new project.
 - Under project name, create a name for your project.
 - Under organization, select an organization.
 - Under location, set the location to your resource group.
 - Click create.
-- Click on the navigation menu and then click on `SQL`.
-- Click on create instance and then click no `choose MySQL`.
+- Click the navigation menu and then click on `SQL`.
+- Click create instance and then click on `choose MySQL`.
 - Click `enable API`.
-- Under instance info, create an instance ID/name and password.
-- Under choose a cloud SQL edition, click the `enterprise option`.
-- Under choose a preset for this edition, click the `sandbox` option.
-- Under machine configuraiton, click `shared core`. Then choose `1 vCPU, 0.164GB`.
-- Under connections, choose `public IP address`.
-- Under authorized netwoork, click on `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`.
-- Click on create instance.
-
+- Follow the table in order:
+---
+  #### GCP Table
+  | Section | Subsection | Steps |
+  | --- | --- | --- |
+  | Instance info | | Create an instance ID and password. |
+  | Choose a Cloud SQL edition | | Click on the `enterprise` option. |
+  | Choose a Cloud SQL edition | Choose preset for this edition. Presets can be customized later as needed. | Click `sandbox` option. |
+  | Customize your instance | Machine configuration | Click `shared core`. Then choose `1 vCPU, 0.164GB`. |
+  | Customize your instance | Connections | Click `public IP address`. Then, under authorized network, click `add a network`. Name the network as `Allow All` and set it to `0.0.0.0/0`. |
+  | | | Click create instance. |
+  
 ### **Reflections on the assignment**
 
 #### 1. MySQL Workbench
