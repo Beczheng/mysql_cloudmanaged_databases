@@ -11,7 +11,7 @@
 - Type in `Azure Database for MySQL` in the search bar.
 - Click `create`.
 - Click `create` under flexible server.
-- Follow the table in order:
+- Now, follow the table in order:
 <br>
 
   | Tab | Section | Steps |
@@ -29,14 +29,14 @@
 - Login to your Google Cloud account.
 - Click the drop down button next to Google Cloud. 
 - Click `new project`.
-- Under project name, create a name for your project.
-- Under organization, select an organization.
-- Under location, set the location to your resource group.
+  - Under project name, create a name for your project.
+  - Under organization, select an organization.
+  - Under location, set the location to your resource group.
 - Click `create`.
 - Click the navigation menu and then click on `SQL`.
 - Click `create instance` and then click on `choose MySQL`.
 - Click `enable API`.
-- Follow the table in order:
+- Now, follow the table in order:
 <br>
 
   | Section | Subsection | Steps |
