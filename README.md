@@ -6,11 +6,11 @@
   
 ### **Summary of the assignment**
 
-#### Azure
+#### 1. Azure
 - 
 
-#### GCP
+#### 2. GCP
 - 
 
-#### MySQL Workbench
+#### 3. MySQL Workbench
 - 
