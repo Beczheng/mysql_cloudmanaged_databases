@@ -4,7 +4,7 @@
 - Course: HHA 504
 - Homework assignment #4: Explore MySQL and its implementation on leading cloud platforms: Azure and GCP. 
   
-### **Summary of the assignment**
+### **Reflections on the assignment**
 
 #### 1. Azure
 - 
