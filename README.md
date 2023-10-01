@@ -14,7 +14,6 @@
 - Follow the table in order:
 <br>
 
-  #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
   | Basics | Project details | Create a name for your resource group and instance. |
@@ -38,7 +37,6 @@
 - Follow the table in order:
 <br>
 
-  #### GCP Table
   | Section | Subsection | Steps |
   | --- | --- | --- |
   | Instance info | | Create an instance ID and password. |
