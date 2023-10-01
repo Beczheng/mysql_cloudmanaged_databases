@@ -12,7 +12,7 @@
 - Click create.
 - Click create under flexible server.
 - Follow the steps in the table in order:
-
+-------
   #### Azure Table
   | Tab | Section | Steps |
   | --- | --- | --- |
