@@ -51,7 +51,7 @@
 - For the MySQL setup on GCP, I used the lecture recording.
 
 ### 3. MySQL Workbench
-- For the MySQL database, I used [this](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK4/code/1_n_create.sql) code. I created a new table called `license` and the following columns: `license_iD, doctor_id, license_type, license_number, and expiration_date`. 
+- For the MySQL database, I used [this](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK4/code/1_n_create.sql) code. I created a new table called `license` and the following columns: `license_iD, doctor_id, license_type, license_number, and expiration_date`. I kept the tables the same for both Azure and GCP.
   
 ### **Reflections on the assignment**
 - Since we went over how to create a MySQL instance on GCP in class, I did not have any issues with it.
