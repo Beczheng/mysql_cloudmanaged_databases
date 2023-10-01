@@ -21,10 +21,7 @@
 
 #### 2. GCP
 - Login to your Google Cloud account.
-- Click on the drop down button next to Google Cloud.
-  
-  <img width="291" alt="Screenshot 2023-10-01 170003" src="https://github.com/Beczheng/mysql_cloudmanaged_databases/assets/123920253/364281ef-6efe-4354-b270-4883491b1aea">
-
+- Click on the drop down button next to Google Cloud. <img width="291" alt="Screenshot 2023-10-01 170003" src="https://github.com/Beczheng/mysql_cloudmanaged_databases/assets/123920253/364281ef-6efe-4354-b270-4883491b1aea">
 - Select a resoure group.
 - Click new project.
 - Under project name, create a name for your project.
