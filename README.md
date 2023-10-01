@@ -13,6 +13,8 @@
 - Click create under flexible server.
 - Follow the steps in the table in order:
 
+  <br>
+
   | Tab | Section | Steps |
   | --- | --- | --- |
   | Basics | Project details | Create a name for your resource group and instance. |
