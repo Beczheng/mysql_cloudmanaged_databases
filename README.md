@@ -33,8 +33,8 @@
   - Under organization, select an organization.
   - Under location, set the location to your resource group.
 - Click `create`.
-- Click the navigation menu and then click on `SQL`.
-- Click `create instance` and then click on `choose MySQL`.
+- Click the navigation menu and then click `SQL`.
+- Click `create instance` and then click `choose MySQL`.
 - Click `enable API`.
 - Now, follow the table in order:
 <br>
