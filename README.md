@@ -31,7 +31,7 @@
 - Click `new project`.
   - Under project name, create a name for your project.
   - Under organization, select an organization.
-  - Under location, set the location to your resource group.
+  - Under location, select a folder.
 - Click `create`.
 - Click the navigation menu and then click `SQL`.
 - Click `create instance` and then click `choose MySQL`.
