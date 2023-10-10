@@ -1,11 +1,10 @@
 # mysql_cloudmanaged_databases
 
-### **Assignment**
+### Assignment
 - Course: HHA 504
 - Homework assignment #4: Explore MySQL and its implementation on leading cloud platforms: Azure and GCP. 
   
-### **Summary of the assignment**
-
+### Summary of the assignment
 #### 1. Azure
 - Login to your Microsoft Azure account.
 - Type in `Azure Database for MySQL` in the search bar.
@@ -53,6 +52,6 @@
 #### 3. MySQL Workbench
 - For the MySQL database, I used [this code](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK4/code/1_n_create.sql). Then, I created a new table called `license` and the following columns: `license_id, doctor_id, license_type, license_number, and expiration_date`. I kept the tables the same for both Azure and GCP.
   
-### **Reflections on the assignment**
+### Reflections on the assignment
 - Since we went over how to create a MySQL instance on GCP in class, I did not have any issues with it.
 - Since we went over how to use MySQL Workbench in class, I did not have any issues with it.
