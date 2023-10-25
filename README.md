@@ -16,7 +16,7 @@
   | Tab | Section | Steps |
   | --- | --- | --- |
   | Basics | Project details | Create a name for your resource group and instance. |
-  | Basics | Server details | Click the `for development or hobby projects` option. Make sure that the compute and storage is `burstable, B1MS [$12.41 p/month]`. |
+  | Basics | Server details | Create a name for your instance. Then, click the `for development or hobby projects` option. Make sure that the compute and storage is `burstable, B1MS [$12.41 p/month]`. |
   | Basics | Authentication | Create a username and password. |
   | Networking | Network connectivity | Click the `public access (allowed IP addresses) and private endpoint` option. |
   | Networking | Firewall rules | Click `+ Add 0.0.0.0 - 255.255.255.255`. |
